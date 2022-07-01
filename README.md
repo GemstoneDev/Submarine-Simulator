@@ -1,5 +1,7 @@
 # Submarine-Simulator-Script
-<p><span>Copy the Script here:</span></p>
+
+
+Copy the Script here:
 ```
 loadstring(game:HttpGet('https://raw.githubusercontent.com/BreakSapphire/Submarine-Simulator/main/main.lua'))()
 ```
