@@ -10,3 +10,6 @@ loadstring(game:HttpGet('https://raw.githubusercontent.com/BreakSapphire/Submari
 * Infinite Oxygen
 * Infinite Power
 * No Jumpscare
+
+# Known Bugs
+* No Jumpscare doesn't work (Will Fix)
