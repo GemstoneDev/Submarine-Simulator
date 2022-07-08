@@ -14,7 +14,7 @@ realJSSound = game:GetService("Players").LocalPlayer.PlayerGui.night.LocalScript
 -- //Welcoming Notification\\ --
 game.StarterGui:SetCore("SendNotification", {
     Title = "Submarine Simulator Script";
-    Text = "Made by Gemstone#8299 (me)";
+    Text = "Made by Sapphire#4567 (me)";
     Duration = 120;
     Button1 = "Okay";
 })
