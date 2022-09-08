@@ -13,3 +13,6 @@ loadstring(game:HttpGet('https://raw.githubusercontent.com/BreakSapphire/Submari
 
 # Known Bugs
 * No Jumpscare doesn't work (Will Fix)
+
+# Currently Fixing/Testing
+* No Jumpscare

@@ -58,8 +58,8 @@ end)
 
 local Him = MainWindow:CreateFolder("\"Him\"")
 Him:Button("Remove Jumpscare", function()
-    fakejumpscare.Image = nil
-    realjumpscare.Image = nil
-    fakeJSSound.SoundId = nil
-    realJSSound.SoundId = nil
+    fakejumpscare.Image = 0
+    realjumpscare.Image = 0
+    fakeJSSound.SoundId = 0
+    realJSSound.SoundId = 0
 end)
