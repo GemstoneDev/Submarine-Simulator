@@ -1,5 +1,6 @@
 # Submarine-Simulator-Script
 
+# This project is no longer in development (no shit lol never got updates)
 
 Copy the Script here:
 ```lua
